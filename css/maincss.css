@@ -1,0 +1,25 @@
+/*ancho de la imagen logo del header*/
+/*alto de la imagen logo del header*/
+/*ancho de la imagen logo del footer*/
+/*alto de la imagen logo del footer*/
+header nav div img {
+  width: 50px;
+  height: 50px; }
+
+main .ti_contacto {
+  color: tomato; }
+
+main .tex_contacto {
+  color: mediumblue; }
+
+footer div div div a img {
+  width: 70px;
+  height: 70px; }
+
+footer div div div h5 {
+  color: firebrick;
+  text-decoration: underline; }
+
+footer div div div ul li a {
+  text-decoration: none;
+  color: darkred; }
